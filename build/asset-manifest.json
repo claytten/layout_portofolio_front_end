@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.25d79477.chunk.css",
+  "main.js": "/static/js/main.eb3ab72a.chunk.js",
+  "main.js.map": "/static/js/main.eb3ab72a.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.3c38cccd.chunk.js": "/static/js/2.3c38cccd.chunk.js",
+  "static/js/2.3c38cccd.chunk.js.map": "/static/js/2.3c38cccd.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.6edbf8437bd1b47ceddc3484c7409f06.js": "/precache-manifest.6edbf8437bd1b47ceddc3484c7409f06.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.25d79477.chunk.css.map": "/static/css/main.25d79477.chunk.css.map",
+  "static/media/1.jpg": "/static/media/1.0a860b33.jpg",
+  "static/media/3.jpg": "/static/media/3.a86c91c7.jpg",
+  "static/media/4.jpg": "/static/media/4.87bd84bf.jpg",
+  "static/media/5.jpg": "/static/media/5.927d13fb.jpg",
+  "static/media/6.jpg": "/static/media/6.c08fbe17.jpg",
+  "static/media/landing-bg.jpg": "/static/media/landing-bg.d224dda2.jpg",
+  "static/media/profile.jpg": "/static/media/profile.7a6cf041.jpg"
+}
